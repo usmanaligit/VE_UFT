@@ -4,4 +4,4 @@ WpfWindow("OpenText MyFlight Sample").WpfButton("OK").Click @@ hightlight id_;_2
 WpfWindow("OpenText MyFlight Sample").WpfButton("FIND FLIGHTS").Click @@ hightlight id_;_1990738440_;_script infofile_;_ZIP::ssf5.xml_;_
 WpfWindow("OpenText MyFlight Sample").Close @@ hightlight id_;_984102_;_script infofile_;_ZIP::ssf7.xml_;_
 
-'closed
+'closed logout
